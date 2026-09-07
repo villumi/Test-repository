@@ -7,7 +7,7 @@ Useful links:
 
 ## Formatting Examples:
 
-1. *Italic* emphasis.
-2. **Bold** emphasis.
+1. *Italic* tekst emphasis.
+2. **Bold** tekst emphasis.
 
 Hejsa
